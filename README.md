@@ -1,0 +1,2 @@
+# salaryPlot
+Plot exercise
